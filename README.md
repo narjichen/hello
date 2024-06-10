@@ -1,2 +1,2 @@
 # hello
-Hello Sam
+Hello ! This Sam Chen from KHC
